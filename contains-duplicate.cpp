@@ -17,9 +17,9 @@ public:
         }
     }
 };
-int main()
+/*int main()
 {
-    Solution s;
+    Solution s();
     vector<int> n={};//input can be given
     s.containsDuplicate(n)
-}
+}*/
